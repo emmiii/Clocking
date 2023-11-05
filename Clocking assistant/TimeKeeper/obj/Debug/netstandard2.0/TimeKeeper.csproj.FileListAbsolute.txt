@@ -1,0 +1,13 @@
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\obj\Debug\netstandard2.0\TimeKeeper.csprojAssemblyReference.cache
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\obj\Debug\netstandard2.0\TimeKeeper.AssemblyInfoInputs.cache
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\obj\Debug\netstandard2.0\TimeKeeper.AssemblyInfo.cs
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\obj\Debug\netstandard2.0\TimeKeeper.csproj.CoreCompileInputs.cache
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\bin\Debug\netstandard2.0\TimeKeeper.deps.json
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\bin\Debug\netstandard2.0\TimeKeeper.dll
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\bin\Debug\netstandard2.0\TimeKeeper.pdb
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\bin\Debug\netstandard2.0\DTO.dll
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\bin\Debug\netstandard2.0\DTO.pdb
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\obj\Debug\netstandard2.0\TimeKeeper.csproj.CopyComplete
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\obj\Debug\netstandard2.0\TimeKeeper.dll
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\obj\Debug\netstandard2.0\TimeKeeper.pdb
+C:\Users\frisk\source\repos\Clocking assistant\TimeKeeper\bin\Debug\netstandard2.0\Assets\TimeLog.txt

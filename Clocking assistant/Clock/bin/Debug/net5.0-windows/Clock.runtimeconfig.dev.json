@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\frisk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\frisk\\.nuget\\packages"
+    ]
+  }
+}

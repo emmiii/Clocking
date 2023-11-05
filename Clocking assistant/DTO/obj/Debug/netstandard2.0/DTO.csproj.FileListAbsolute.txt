@@ -1,0 +1,9 @@
+C:\Users\frisk\source\repos\Clocking assistant\DTO\bin\Debug\netstandard2.0\DTO.deps.json
+C:\Users\frisk\source\repos\Clocking assistant\DTO\bin\Debug\netstandard2.0\DTO.dll
+C:\Users\frisk\source\repos\Clocking assistant\DTO\bin\Debug\netstandard2.0\DTO.pdb
+C:\Users\frisk\source\repos\Clocking assistant\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
+C:\Users\frisk\source\repos\Clocking assistant\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+C:\Users\frisk\source\repos\Clocking assistant\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+C:\Users\frisk\source\repos\Clocking assistant\DTO\obj\Debug\netstandard2.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\frisk\source\repos\Clocking assistant\DTO\obj\Debug\netstandard2.0\DTO.dll
+C:\Users\frisk\source\repos\Clocking assistant\DTO\obj\Debug\netstandard2.0\DTO.pdb
